@@ -1,0 +1,112 @@
+[
+    {
+      "bonneReponse": false,
+      "enonce": "En quelle année fut lancé ce language ?",
+      "m_repCorrecte": 4,
+      "reponses": [
+        "1998",
+        "2005",
+        "1995",
+        "2002"
+      ]
+    },
+    {
+      "bonneReponse": false,
+      "enonce": "Quel est le type principal de programmation du C# ?",
+      "m_repCorrecte": 1,
+      "reponses": [
+        "Orienté objet",
+        "Fonctionnel",
+        "Impérative",
+        "Par contrat"
+      ]
+    },
+    {
+      "bonneReponse": false,
+      "enonce": "Le framework .NET est-il compatible avec tous les langages ?",
+      "m_repCorrecte": 3,
+      "reponses": [
+        "Seulement C#",
+        "C# et Visual BASIC",
+        "Tout langage disposant d'un compilateur produisant du code MSIL",
+        "Aucun"
+      ]
+    },
+    {
+      "bonneReponse": false,
+      "enonce": "Quel calendrier n'est pas inclus dans le standard .NET",
+      "m_repCorrecte": 4,
+      "reponses": [
+        "Coréen",
+        "Taiwanais",
+        "Hébreu",
+        "Aztèque"
+      ]
+    },
+    {
+      "bonneReponse": false,
+      "enonce": "Quelle est la différence entre les champs const et readonly ?",
+      "m_repCorrecte": 1,
+      "reponses": [
+        "Le premier est initialisé lors de la compilation et le second lors de l'exécution",
+        "Aucune",
+        "La différence n'existe que dans le cadre de la programmation embarquée",
+        "Le premier concerne les attributs d'une classe et le second les autres variables"
+      ]
+    },
+    {
+      "bonneReponse": false,
+      "enonce": "Peut-on directement manipuler la mémoire ?",
+      "m_repCorrecte": 3,
+      "reponses": [
+        "Non, le code ne s'exécutant que dans une machine virtuelle",
+        "Oui, sans aucune limite",
+        "Seulement dans des blocs de code 'unsafe'",
+        "Uniquement dans les versions les plus récentes"
+      ]
+    },
+    {
+      "bonneReponse": false,
+      "enonce": ".NET possède-il des outils pour communiquer avec des serveurs mail ?",
+      "m_repCorrecte": 2,
+      "reponses": [
+        "Oui",
+        "Seulement pour SMTP",
+        "Seulement pour POP",
+        "Non"
+      ]
+    },
+    {
+      "bonneReponse": false,
+      "enonce": "L'héritage multiple est-il autorisé en C# ?",
+      "m_repCorrecte": 1,
+      "reponses": [
+        "Non",
+        "Oui, dans tous les cas",
+        "Oui, dans certains cas",
+        "L'héritage multiple n'existe pas"
+      ]
+    },
+    {
+      "bonneReponse": false,
+      "enonce": "Le C# est un langage...",
+      "m_repCorrecte": 3,
+      "reponses": [
+        "Interprété",
+        "Compilé",
+        "Précompilé",
+        "Préinterprété"
+      ]
+    },
+    {
+      "bonneReponse": false,
+      "enonce": "Qui a dirigé la conception du C# ?",
+      "m_repCorrecte": 1,
+      "reponses": [
+        "Anders Hejlsberg",
+        "Mads Torgersen",
+        "Steve Jobs",
+        "James Gosling"
+      ]
+    }
+  ]
